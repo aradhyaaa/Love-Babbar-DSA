@@ -1,0 +1,78 @@
+#include<iostream>
+
+using namespace std;
+
+int main(){
+    /*cout<<"namaste dunia!"<<endl;
+    int a = 5;
+    cout<<a<<endl;
+
+    char b = 'c';
+    cout<<b<<endl;
+
+    bool b1 = false;
+    bool b2 = true;
+
+    cout<< b1 <<endl;
+    cout<< b2 <<endl;
+
+    float f1 = 1.2;
+    float f2 = 1.23;
+
+    cout<< f1<< endl;
+    cout<< f2<< endl;
+
+    int sizea = sizeof(a);
+    int sizeb1 = sizeof(b1);
+    int sizef1 = sizeof(f1);
+    int sizef2 = sizeof(f2);
+
+    cout<<"Size of a = "<< sizea <<endl;
+    cout<<"Size of b1 = "<< sizeb1 <<endl;
+    cout<<"Size of f1 = "<< sizef1 <<endl;
+    cout<<"Size of f2 = "<< sizef2 <<endl;
+
+    int a = 'f';
+
+    cout<<a<<endl;
+
+
+    char b = 80;
+
+    cout<<b<<endl;
+
+    unsigned a = 112;
+    unsigned b = -112;
+
+    cout<<a<<endl;
+    cout<<b<<endl;
+
+    int x = 4;
+    int y = 5;
+
+    bool q(a==b);
+    cout<< q << endl;
+
+    bool w (a>b);
+    cout<< w << endl;
+
+    bool e(a<b);
+    cout<< e << endl;
+
+    bool r(a<=b);
+    cout<< r << endl;
+
+    bool t(a>=b);
+    cout<< t << endl;
+
+    bool o(a!=b);
+    cout<< o << endl;
+
+
+
+
+    return 0;
+    
+
+*/
+}
