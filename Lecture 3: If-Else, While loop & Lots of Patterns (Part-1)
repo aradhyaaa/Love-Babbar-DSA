@@ -1,0 +1,119 @@
+#include<iostream>
+
+using namespace std;
+
+int main(){
+   /*int a;
+    int b;
+    int c;
+
+    cout<<"Enter value of a "<<endl;
+    cin>>a;
+
+    cout<<"Enter value of b "<<endl;
+    cin>>b;
+    
+
+    if(a>b){
+        cout<<"a is bigger"<<endl;
+    }
+    else{
+        cout<<"b is bigger"<<endl;
+    }
+
+    if(a>0){
+        cout<<"a is positive"<<endl;
+    }
+    else{
+        cout<<"a is negative"<<endl;
+    }
+
+    c=cin.get();
+
+    cout<<"value of c "<< c <<endl;
+
+    char ch;
+    cout<<"enter the character"<<endl;
+    cin>>ch;
+    
+    if (ch >= 'A' && ch <= 'Z') {
+        cout << "Character is in Upper Case" << endl;
+    }
+    else if (ch >= 'a' && ch <= 'z') {
+        cout << "Character is in Lower Case" << endl;
+    }
+    else if (ch >= '0' && ch <= '9') {
+        cout << "Character is a numeric value" << endl;
+    }5
+    else {
+        cout << "Special Character" << endl;
+    }
+
+    int n;
+    cin>>n;
+    int i = 2;
+    int sum = 0;
+
+    while(i<=n){
+        sum = sum + i4;
+        i = i + 1;
+        cout<< sum << endl;
+    }
+    int n;
+    cin>>n;
+    int i = 2;
+    int sum = 0;
+
+    while(i<=n){
+        sum = sum + i;
+        i = i + 2;
+        cout<< sum << endl;
+    }
+
+    while(i <=n){
+        if( n % i ==0){
+            cout<<"Not Prime for "<< i << endl;
+            break;
+        }
+        i = i + 1;
+        }
+        if (i>n)
+        {
+            cout<<"Prime for"<< i << endl;
+        }
+    
+int n;
+cin>>n;
+     
+int i = 1;
+   
+   while (i<=n)
+   {
+    int j = 1;
+    while(j<=n){
+        cout<<" * ";
+        j = j + 1;
+    }
+    cout<< endl;
+    i = i + 1;
+   }
+
+   int n;
+   cin >> n;
+
+   int i = 1;
+
+   while(i<=n){
+    int j = 1;
+    while(j<=n){
+        cout<<" "<< i << " ";
+        j = j + 1; 
+    }
+    cout<<endl;
+    i = i + 1;
+   }*/
+
+
+
+    return 0;
+}
